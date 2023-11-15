@@ -11,10 +11,3 @@ openai == 0.28
 pinecone-client[grpc]
 pinecone_datasets==0.6.2
 tiktoken
-folktables
-scikit-learn
-matplotlib
-seaborn
-fairlearn
-os
-pinecone

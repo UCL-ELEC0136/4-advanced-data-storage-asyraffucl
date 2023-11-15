@@ -1,4 +1,6 @@
 numpy
+os
+pinecone
 requests
 jupyter
 jupyterlab
@@ -16,5 +18,3 @@ scikit-learn
 matplotlib
 seaborn
 fairlearn
-os
-pinecone
